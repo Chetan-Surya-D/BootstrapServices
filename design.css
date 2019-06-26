@@ -1,0 +1,35 @@
+.txtDesign{
+    text-align: center;
+    color: white;
+    
+}
+
+.td{
+    text-align: center;
+}
+
+.headDesign{
+    background-color: green;
+    height:100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.ides{
+    font-size: 80px;
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold
+}
+
+.price{
+    border: 2px solid silver;
+    border-radius: 10px;
+}
+
+.price:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s
+}
